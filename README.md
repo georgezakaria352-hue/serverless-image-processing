@@ -16,7 +16,7 @@ This project resizes images automatically using AWS Lambda when uploaded to an S
 - **CloudWatch**: Monitor Lambda execution logs.
 
 ## Architecture Diagram
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](serverless-image-processing- image.png)
 
 ## Learning Outcomes
 - Building event-driven serverless applications.  
